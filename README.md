@@ -57,11 +57,6 @@ D  │   ───────────▶           │───────
 pip install numpy matplotlib
 ```
 
-### Run the solver
-```bash
-python simple_cfd_U2_fixed.py
-```
-
 ### What you'll see
 1. 🖨️ Reynolds number + convergence error printed every 50 iterations
 2. 📉 **Convergence history** plot (log-scale error vs. iteration)
